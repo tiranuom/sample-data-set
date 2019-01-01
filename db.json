@@ -1,0 +1,20 @@
+{
+  "products" : [
+    {
+      "name": "Product1",
+      "img": "https://rukminim1.flixcart.com/merch/240/240/images/1489570281077.jpg"
+    },
+    {
+      "name": "Product2",
+      "img": "https://ae01.alicdn.com/kf/HTB1kCsdSXXXXXXlXFXXq6xXFXXXP/Men-Shoes-2017-Fashion-Spring-Warm-Artificial-Leather-Shoes-Flat-Lace-up-Ankle-Boots-for-Man.jpg_640x640.jpg"
+    },
+    {
+      "name": "Product3",
+      "img": "http://d38xymwcpnbtxu.cloudfront.net/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/1/4/14-9185m11.jpg"
+    },
+    {
+      "name": "Product4",
+      "img": "https://gloimg.rglcdn.com/rosegal/pdm-provider-img/straight-product-img/20181123/T034913/T0349130052/source-img/161924-9674.jpg"
+    }
+  ]
+}
